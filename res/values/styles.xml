@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light"></style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme"></style>
+
+    <style name="SimpleStyle" parent="android:Widget.Holo.ProgressBar">
+        <item name="rpb_color">@color/default_color1</item>
+        <item name="rpb_strokewidth">@dimen/rpb_stroke_width</item>
+        <item name="rpb_sweep_min">@integer/rpb_sweep_min</item>
+        <item name="rpb_sweep_max">@integer/rpb_sweep_max</item>
+        <item name="rpb_sweep_speed">@string/rpb_sweep_speed</item>
+        <item name="rpb_rotation_speed">@string/rpb_rotation_speed</item>
+    </style>
+
+</resources>

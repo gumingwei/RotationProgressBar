@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="default_color1">#FF4444</color>
+    <color name="default_color2">#EAD712</color>
+    <color name="default_color3">#1FDB0F</color>
+    <color name="default_color4">#12EA49</color>
+    <color name="default_color5">#12D3EA</color>
+
+    <integer-array name="rpb_default_colors">
+        <item>@color/default_color1</item>
+        <item>@color/default_color2</item>
+        <item>@color/default_color3</item>
+        <item>@color/default_color4</item>
+        <item>@color/default_color5</item>
+    </integer-array>
+
+</resources>
